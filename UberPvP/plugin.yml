@@ -1,0 +1,13 @@
+name: UberPvP
+version: 1.0
+author: ____EL_UBRE____
+main: General.Main
+description: A pvp plugin made by ____EL_UBRE____.
+
+commands:
+    kittrooper:
+        description: Receive Kit Trooper
+    kitshortbow:
+        description: Receive Kit Shortbow
+    kittribow:
+        description: Receive Kit Tribow
